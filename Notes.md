@@ -14,4 +14,5 @@
 
 - Online Mendelian Inheritance in Man: www.omin.org
 - The cancer Genome Atlas:
-- webs.iiitd.edu.in/raghava/lncinfo/database.php
+- [webs.iiitd.edu.in/raghava/lncinfo/database.php](https://webs.iiitd.edu.in/raghava/lncinfo/database.php)
+- GenBank Sample Record: www.ncbi.nlm.nih.gov/genbank/samplerecord/
