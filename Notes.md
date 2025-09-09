@@ -1,18 +1,17 @@
 # Databases:
 ## Nuclei and Gene Database
-- DNA Database of Japan (DDBJ): www.ddbj.nig.ac.jp
-- DNA Database of Europe (EBI): www.ebi.ac.uk
-- DNA Database of America (NCBI): www.ncbi.ac.us
+- DNA Database of Japan (DDBJ): [www.ddbj.nig.ac.jp](https://www.ddbj.nig.ac.jp)
+- DNA Database of Europe (EBI): [www.ebi.ac.uk](https://www.ebi.ac.uk/)
+- DNA Database of America (NCBI): [www.ncbi.ac.us](https://www.ncbi.nlm.nih.gov/)
 
 ## Protien Database
-- Protein Data Bank (PDB)
+- Protein Data Bank (PDB): 
 - Swiss Pro Data Bank
 - Uni Pro (Universal Protien Resource)
 
 
-##
-
-- Online Mendelian Inheritance in Man: www.omin.org
-- The cancer Genome Atlas:
+## Records
+- Online Mendelian Inheritance in Man: [www.omin.org](https://www.omim.org/)
+- The cancer Genome Atlas: [https://www.cancer.gov/ccg/research/genome-sequencing/tcga](https://www.cancer.gov/ccg/research/genome-sequencing/tcga) 
 - [webs.iiitd.edu.in/raghava/lncinfo/database.php](https://webs.iiitd.edu.in/raghava/lncinfo/database.php)
-- GenBank Sample Record: www.ncbi.nlm.nih.gov/genbank/samplerecord/
+- GenBank Sample Record: [www.ncbi.nlm.nih.gov/genbank/samplerecord/](https://www.ncbi.nlm.nih.gov/genbank/samplerecord/)
