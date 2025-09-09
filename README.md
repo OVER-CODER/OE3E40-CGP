@@ -5,9 +5,9 @@
 - DNA Database of America (NCBI): [www.ncbi.ac.us](https://www.ncbi.nlm.nih.gov/)
 
 ## Protien Database
-- Protein Data Bank (PDB): 
-- Swiss Pro Data Bank
-- Uni Pro (Universal Protien Resource)
+- Protein Data Bank (PDB): [https://www.rcsb.org/](https://www.rcsb.org/)
+- Swiss Prot Data Bank: [https://www.expasy.org/resources/uniprotkb-swiss-prot](https://www.expasy.org/resources/uniprotkb-swiss-prot)
+- Uni Prot (Universal Protien Resource): [www.uniprot.org/](www.uniprot.org/)
 
 
 ## Records
