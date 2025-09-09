@@ -1,5 +1,5 @@
-## Databases:
-# Nuclei and Gene Database
+# Databases:
+## Nuclei and Gene Database
 - DNA Database of Japan (DDBJ): www.ddbj.nig.ac.jp
 - DNA Database of Europe (EBI): www.ebi.ac.uk
 - DNA Database of America (NCBI): www.ncbi.ac.us
