@@ -14,4 +14,4 @@
 - Online Mendelian Inheritance in Man: [www.omin.org](https://www.omim.org/)
 - The cancer Genome Atlas: [https://www.cancer.gov/ccg/research/genome-sequencing/tcga](https://www.cancer.gov/ccg/research/genome-sequencing/tcga) 
 - [webs.iiitd.edu.in/raghava/lncinfo/database.php](https://webs.iiitd.edu.in/raghava/lncinfo/database.php)
-- GenBank Sample Record: [www.ncbi.nlm.nih.gov/genbank/samplerecord/](https://www.ncbi.nlm.nih.gov/genbank/samplerecord/)
+- GenBank Sample Record: [www.ncbi.nlm.nih.gov/genbank/samplerecord/](https://www.ncbi.nlm.nih.gov/genbank/samplerecord/) : [Sample Genebank Record](/Sample%20Genebank%20Record/)
