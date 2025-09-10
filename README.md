@@ -15,3 +15,10 @@
 - The cancer Genome Atlas: [https://www.cancer.gov/ccg/research/genome-sequencing/tcga](https://www.cancer.gov/ccg/research/genome-sequencing/tcga) 
 - [webs.iiitd.edu.in/raghava/lncinfo/database.php](https://webs.iiitd.edu.in/raghava/lncinfo/database.php)
 - GenBank Sample Record: [www.ncbi.nlm.nih.gov/genbank/samplerecord/](https://www.ncbi.nlm.nih.gov/genbank/samplerecord/) : [Sample Genebank Record](/Sample%20Genebank%20Record/)
+
+How to Access Data:
+- Gene: F56F11.4 present on chromosome III of C.Elegans [https://www.ncbi.nlm.nih.gov/gene/?term=F56F11.4](https://www.ncbi.nlm.nih.gov/gene/?term=F56F11.4)
+- Accession Number: NC003281.10
+- Extending from 2854558 to 2866513
+- (<1..62,2481..2592,4081..4410,5667..5930,7018..7197, 8808..>9158)
+- find start codon, end codon, exon spicing junctions (AG GT).
