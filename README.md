@@ -9,6 +9,8 @@
 - Swiss Prot Data Bank: [https://www.expasy.org/resources/uniprotkb-swiss-prot](https://www.expasy.org/resources/uniprotkb-swiss-prot)
 - Uni Prot (Universal Protien Resource): [www.uniprot.org/](https://www.uniprot.org/)
 
+## Visualization Tool:
+- Alpha Fold: [https://alphafold.ebi.ac.uk](https://alphafold.ebi.ac.uk)
 
 ## Records
 - Online Mendelian Inheritance in Man: [www.omin.org](https://www.omim.org/)
