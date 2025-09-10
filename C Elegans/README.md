@@ -1,5 +1,3 @@
-### Fasta
-
 ## CDS Ranges
 
 # 2856229 - 2856290
@@ -18,4 +16,5 @@ CTGACGAGCAGACACTTCGTCCGTATTTTAAGACGAAAGTTGAACAAGCGGA()GGTGAATTTTCG
 - 2858709 we get AG (start of exon)
 - 2858820 we get end of exon
 
-# [Full Fasta Format](C Elegans\NC_003281.10[2855301..2866426].fa)
+## Full fasta Format
+- [Full Fasta Format](C Elegans\NC_003281.10[2855301..2866426].fa)
