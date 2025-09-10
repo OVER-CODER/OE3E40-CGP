@@ -30,3 +30,6 @@ How to Access Data:
 
 ## Cancer Database
 - [http://cancer.sanger.ac.uk/cosmic](http://cancer.sanger.ac.uk/cosmic)
+
+### Project Ideas
+- how to identify micro exons
