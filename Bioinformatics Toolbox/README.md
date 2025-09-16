@@ -36,3 +36,13 @@ basecount(mitochondria)
 ```
  basecount(seqrcomplement(mitochondria))
 ```
+
+- Use the function basecount with the chart option to visualize the nucleotide distribution.
+```
+basecount(mitochondria,'chart','pie’); 
+```
+
+- Count the dimers in a sequence and display the information in a bar chart.
+```
+dimercount(mitochondria,'chart','bar’)
+```
