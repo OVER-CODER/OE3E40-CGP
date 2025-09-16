@@ -9,6 +9,11 @@
 
 
 ## Important functions:
+- Mitochondria genbank sequence
+```
+mitochondria = getgenbank('NC_012920.1','SequenceOnly',true)
+```
+
 - to determine mono-, di-, and trinucleotide content, and to locate open reading frames.
 ```
 aacount, basecount, codoncount, dimercount, nmercount, ntdensity 
