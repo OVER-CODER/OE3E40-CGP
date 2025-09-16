@@ -9,45 +9,43 @@
 
 
 ## Important functions:
-- Mitochondria genbank sequence
+Mitochondria genbank sequence
 ```
 mitochondria = getgenbank('NC_012920.1','SequenceOnly',true)
 ```
 
-- to determine mono-, di-, and trinucleotide content, and to locate open reading frames.
+To determine mono-, di-, and trinucleotide content, and to locate open reading frames.
 ```
 aacount, basecount, codoncount, dimercount, nmercount, ntdensity 
 ```
-- search for specific patterns within a sequence
+Search for specific patterns within a sequence
 ```
 seqshowwords, seqwordcount
 ```
 
-- search for open reading frames 
+Search for open reading frames 
 ```
 seqshoworfs
 ```
 
-- Plot monomer densities and combined monomer densities in a graph. In the MATLAB Command window, type 
+Plot monomer densities and combined monomer densities in a graph. In the MATLAB Command window, type 
 ```
 ntdensity(mitochondria) 
 ```
-
--  Count the nucleotides using the function basecount.           
+Count the nucleotides using the function basecount.           
 ```
 basecount(mitochondria)
 ```
-- Count the nucleotides in the reverse complement of a sequence using the function seqrcomplement.
+Count the nucleotides in the reverse complement of a sequence using the function seqrcomplement.
 ```
  basecount(seqrcomplement(mitochondria))
 ```
 
-- Use the function basecount with the chart option to visualize the nucleotide distribution.
+Use the function basecount with the chart option to visualize the nucleotide distribution.
 ```
 basecount(mitochondria,'chart','pie’); 
 ```
-
-- Count the dimers in a sequence and display the information in a bar chart.
+Count the dimers in a sequence and display the information in a bar chart.
 ```
 dimercount(mitochondria,'chart','bar’)
 ```
