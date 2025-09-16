@@ -18,4 +18,21 @@ aacount, basecount, codoncount, dimercount, nmercount, ntdensity
 seqshowwords, seqwordcount
 ```
 
-- search for open reading frames ```seqshoworfs```
+- search for open reading frames 
+```
+seqshoworfs
+```
+
+- Plot monomer densities and combined monomer densities in a graph. In the MATLAB Command window, type 
+```
+ntdensity(mitochondria) 
+```
+
+-  Count the nucleotides using the function basecount.           
+```
+basecount(mitochondria)
+```
+- Count the nucleotides in the reverse complement of a sequence using the function seqrcomplement.
+```
+ basecount(seqrcomplement(mitochondria))
+```
