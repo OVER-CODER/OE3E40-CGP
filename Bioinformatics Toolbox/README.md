@@ -1,4 +1,7 @@
 # Bioinformatics Toolbox
+## Code:
+- [working_wth_fasta.ipynb](https://github.com/OVER-CODER/OE3E40-CGP/blob/1901eea76b881c83e82005ce9b3f85a75ebb73b2/Bioinformatics%20Toolbox/working_wth_fasta.ipynb)
+
 ## Get Databases Functions:
 - (getgenpept): GenPept
 - (getgenbank): GenBank
