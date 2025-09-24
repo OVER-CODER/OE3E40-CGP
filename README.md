@@ -35,3 +35,4 @@ How to Access Data:
 - how to identify micro exons
 - Ab initio gene prediction for protein coding regions [Research Paper](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad105/7240498)
 - A Novel Repetition Frequency-Based DNA Encoding Scheme to Predict Human and Mouse DNA Enhancers with Deep Learning [Research Paper](https://www.mdpi.com/2313-7673/8/2/218)
+- Exon–intron boundary detection made easy by physicochemical properties of DNA [Research Paper](https://pubs.rsc.org/en/content/articlelanding/2025/mo/d4mo00241e)
