@@ -36,3 +36,8 @@ How to Access Data:
 - Ab initio gene prediction for protein coding regions [Research Paper](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad105/7240498)
 - A Novel Repetition Frequency-Based DNA Encoding Scheme to Predict Human and Mouse DNA Enhancers with Deep Learning [Research Paper](https://www.mdpi.com/2313-7673/8/2/218)
 - Exon–intron boundary detection made easy by physicochemical properties of DNA [Research Paper](https://pubs.rsc.org/en/content/articlelanding/2025/mo/d4mo00241e)
+- SCS: signal, context, and structure features for genome-wide human promoter recognition [Research Paper](https://pubmed.ncbi.nlm.nih.gov/20671324/)
+- Prediction of methylated CpGs in DNA sequences using a support vector machine [Research Paper](https://pubmed.ncbi.nlm.nih.gov/16051225/)
+- Evaluating the performance of sequence encoding schemes and machine learning methods for splice sites recognition [Research Paper](https://pubmed.ncbi.nlm.nih.gov/31009682/)
+- Prediction of functional microexons by transfer learning [Research Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08187-9)
+- Temporal convolution network for a Fast DNA mutation detection in breast cancer data [Research Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285981)
