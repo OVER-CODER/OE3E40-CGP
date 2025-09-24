@@ -33,3 +33,4 @@ How to Access Data:
 
 ### Project Ideas
 - how to identify micro exons
+- Ab initio gene prediction for protein coding regions [Research Paper](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad105/7240498)
