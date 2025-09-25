@@ -34,7 +34,7 @@ How to Access Data:
 ### Project Ideas
 - how to identify micro exons
 - Ab initio gene prediction for protein coding regions [Research Paper](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad105/7240498)
-- A Novel Repetition Frequency-Based DNA Encoding Scheme to Predict Human and Mouse DNA Enhancers with Deep Learning [Research Paper](https://www.mdpi.com/2313-7673/8/2/218) [Dataset](https://vista-enhancer.lbl.gov/)
+- A Novel Repetition Frequency-Based DNA Encoding Scheme to Predict Human and Mouse DNA Enhancers with Deep Learning [Research Paper](https://www.mdpi.com/2313-7673/8/2/218) [Dataset](https://vista-enhancer.lbl.gov/) [Colab Code](https://colab.research.google.com/drive/1lEwYQCD6aH2N-oP-nMMSMfBm7wYhf3Ph?usp=sharing)
 - Exon–intron boundary detection made easy by physicochemical properties of DNA [Research Paper](https://pubs.rsc.org/en/content/articlelanding/2025/mo/d4mo00241e)
 - SCS: signal, context, and structure features for genome-wide human promoter recognition [Research Paper](https://pubmed.ncbi.nlm.nih.gov/20671324/)
 - Prediction of methylated CpGs in DNA sequences using a support vector machine [Research Paper](https://pubmed.ncbi.nlm.nih.gov/16051225/)
