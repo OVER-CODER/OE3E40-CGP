@@ -10,7 +10,7 @@
 - Uni Prot (Universal Protien Resource): [www.uniprot.org/](https://www.uniprot.org/)
 
 ## Visualization Tool:
-- Alpha Fold: [https://alphafold.ebi.ac.uk](https://alphafold.ebi.ac.uk)
+- Alpha Fold: [https://alphafold.ebi.ac.uk](https://alphafold.ebi.ac.uk) [Github](https://github.com/google-deepmind/alphafold)
 
 ## Records
 - Online Mendelian Inheritance in Man: [www.omin.org](https://www.omim.org/)
