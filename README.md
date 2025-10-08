@@ -31,6 +31,12 @@ How to Access Data:
 ## Cancer Database
 - [http://cancer.sanger.ac.uk/cosmic](http://cancer.sanger.ac.uk/cosmic)
 
+## Free Sites for research work
+- [https://asta.allen.ai/chat](https://asta.allen.ai/chat)
+- [https://storm.genie.stanford.edu/](https://storm.genie.stanford.edu/)
+- [https://www.researchrabbit.ai/](https://www.researchrabbit.ai/)
+- [https://www.semanticscholar.org/](https://www.semanticscholar.org/)
+
 ### Project Ideas
 - how to identify micro exons
 - Ab initio gene prediction for protein coding regions [Research Paper](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad105/7240498)
