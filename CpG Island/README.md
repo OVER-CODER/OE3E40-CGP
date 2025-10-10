@@ -10,6 +10,7 @@
 - likelystates = hmmviterbi(seq, TRAN, EMIS)
 - PSTATES = hmmdecode(seq, TRAN, EMIS)
 - [TRANS_EST, EMIS_EST] = hmmestimate(seq, states)
+- hmmtrain(): calculates max likelyhood of estimates of transistion and emmision probabilities from a seq of emissions.
 
 ## Questions
 - Given a HMM and a seq of states and symbols. What is the probability to get this sequence??
@@ -19,3 +20,5 @@
 - States^Symbols = Number of paths
 - In order to find most probable path we use Dynamic Programming
 - Direct Matlab Function: likelystates = hmmviterbi(seq, TRAN, EMIS)
+
+![Die Roll HMM Results](image-1.png)
