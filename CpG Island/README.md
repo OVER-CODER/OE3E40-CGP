@@ -22,3 +22,7 @@
 - Direct Matlab Function: likelystates = hmmviterbi(seq, TRAN, EMIS)
 
 ![Die Roll HMM Results](image-1.png)
+
+
+## Sequence
+AB05565
